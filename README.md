@@ -1,6 +1,6 @@
 # latexTemplateFile
 
-This is a basic template for writing essays, reports, tasks or any other type of document.
+This is a basic template for writing essays, reports or any other type of document.
 
 Basic structure:
 
