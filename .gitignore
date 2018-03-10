@@ -1,0 +1,4 @@
+# auxiliary files
+*.log
+*.aux
+*.pdf
